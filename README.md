@@ -1,16 +1,17 @@
-#Disease Prediction Using Machine Learning
-Description
+**Disease Prediction Using Machine Learning**
+**Description**
 This project leverages Machine Learning techniques to predict diseases based on user input symptoms. By training our system on a comprehensive medical dataset, we provide accurate disease predictions and relevant preventive measures through a user-friendly graphical interface. The aim is to improve accessibility to preliminary healthcare diagnostics using advanced AI solutions.
 
-Model Used
+**Model Used**
 The project employs an Artificial Neural Network (ANN) model, which has been trained on medical data to accurately predict possible diseases based on input symptoms. The model uses feature extraction, data preprocessing, and prediction algorithms to offer accurate and actionable healthcare insights.
 
-How It Works
-Data Preprocessing: User inputs are collected, preprocessed, and normalized to ensure compatibility with the model.
-Model Training: An ANN model is trained on labeled datasets, learning associations between symptoms and diseases.
-Prediction and Recommendations: The trained model takes input symptoms and predicts potential diseases, also providing preventive measures.
-User Interface: The project includes a graphical user interface (GUI) built using Python's Tkinter, enabling users to input symptoms easily and view predictions seamlessly.
-Steps to Follow
+**How It Works**
+**Data Preprocessing:** User inputs are collected, preprocessed, and normalized to ensure compatibility with the model.
+**Model Training:** An ANN model is trained on labeled datasets, learning associations between symptoms and diseases.
+**Prediction and Recommendations:** The trained model takes input symptoms and predicts potential diseases, also providing preventive measures.
+**User Interface:** The project includes a graphical user interface (GUI) built using Python's Tkinter, enabling users to input symptoms easily and view predictions seamlessly.
+
+**Steps to Follow**
 1. Install VS Code and Necessary Extensions
 Download and install Visual Studio Code (VS Code).
 Install the necessary extensions for running Jupyter Notebook files in VS Code. Recommended extensions include:
