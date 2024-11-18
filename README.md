@@ -1,4 +1,4 @@
-Disease Prediction Using Machine Learning
+#Disease Prediction Using Machine Learning
 Description
 This project leverages Machine Learning techniques to predict diseases based on user input symptoms. By training our system on a comprehensive medical dataset, we provide accurate disease predictions and relevant preventive measures through a user-friendly graphical interface. The aim is to improve accessibility to preliminary healthcare diagnostics using advanced AI solutions.
 
