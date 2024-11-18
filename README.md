@@ -22,15 +22,22 @@ Download and install Visual Studio Code (VS Code).
 Install the necessary extensions for running Jupyter Notebook files in VS Code. Recommended extensions include:
 Python Extension for VS Code
 Jupyter Extension for VS Code
+
 **2. Modify Dataset Paths**
 Change the paths of the dataset files to point to the appropriate locations on your system. Make sure to update the paths in the code to reflect where your dataset files are stored.
+
 **3. Run the Disease Prediction.ipynb File**
 Open and run the Disease Prediction.ipynb Jupyter Notebook file first.
 This step will generate the following files:
-    **columns.pkl:** Contains serialized column information.
-    **label_encoder.pkl:** Contains the trained label encoder for encoding data.
-   ** fyp.h5:** The trained model file saved in HDF5 format.
-   ** scaler.pkl:** Contains the scaler object used for feature scaling.
+
+   **columns.pkl:** Contains serialized column information.
+   
+   **label_encoder.pkl:** Contains the trained label encoder for encoding data. 
+    
+   **fyp.h5:** The trained model file saved in HDF5 format.
+    
+   **scaler.pkl:** Contains the scaler object used for feature scaling.
+
 **4. Run the GUI.ipynb File**
 Once the above files have been created, open and run the GUI.ipynb Jupyter Notebook file to start the graphical user interface.
 Enter symptoms into the GUI to predict diseases and receive preventive measures.
